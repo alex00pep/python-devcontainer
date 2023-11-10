@@ -9,8 +9,9 @@ icon: /icon/docker.png
 
 Develop using [devcontainers](https://containers.dev) in Docker.
 
-To get started, run `coder templates init`. When prompted, select this template.
-Follow the on-screen instructions to proceed.
+To get started, first install Coder, preferably on Linux OS.
+And create a new Coder workspace with the template: `main.tf`
+How to create a Coder workspace: https://coder.com/docs/v2/latest/workspaces
 
 ## How it works
 
