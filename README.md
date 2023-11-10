@@ -1,5 +1,5 @@
 ---
-name: Devcontainers in Docker
+name: Devcontainers in Docker using Coder and Terraform template
 description: Develop using devcontainers in Docker
 tags: [local, docker]
 icon: /icon/docker.png
